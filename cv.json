@@ -26,24 +26,22 @@
         "username": "alealonso17",
         "url": "https://github.com/alealonso17"
       }
-
     ]
   },
   "work": [
-  {
-    "name": "Bakio Surf Cleaner",
-    "position": "Software Developer",
-    "url": "",
-    "startDate": "2024-01-01",
-    "endDate": "2024-02-01",
-    "summary": "Developed a desktop application for a surf school to automatically filter and remove short video clips from surf session recordings, improving training efficiency.Designed and implemented a user-friendly tool tailored for surf coaches, automated repetitive video management tasks using Python and enhanced workflow efficiency and saved significant time in training analysis.",
-    "highlights": [
-      "Designed and implemented a user-friendly tool tailored for surf coaches, ",
-      "automated repetitive video management tasks using Python and ",
-      "enhanced workflow efficiency and saved significant time in training analysis."
-    ]
-  }
-
+    {
+      "name": "Bakio Surf Cleaner",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-02-01",
+      "summary": "Developed a desktop application for a surf school to automatically filter and remove short video clips from surf session recordings, improving training efficiency.Designed and implemented a user-friendly tool tailored for surf coaches, automated repetitive video management tasks using Python and enhanced workflow efficiency and saved significant time in training analysis.",
+      "highlights": [
+        "Designed and implemented a user-friendly tool tailored for surf coaches, ",
+        "automated repetitive video management tasks using Python and ",
+        "enhanced workflow efficiency and saved significant time in training analysis."
+      ]
+    }
   ],
   "volunteer": [
     {
@@ -68,61 +66,60 @@
       "studyType": "Bachelor",
       "startDate": "2024",
       "endDate": "2028",
-      
       "courses": []
     },
     {
-    "institution": "Jesús María School, Bilbao",
-    "url": "https://jesusmariaikastetxea.com/",
-    "area": "High School Diploma (Science and Technology)",
-    "studyType": "High School",
-    "startDate": "2003",
-    "endDate": "2021",
-    "score": "",
-    "courses": []
-  }
+      "institution": "Jesús María School, Bilbao",
+      "url": "https://jesusmariaikastetxea.com/",
+      "area": "High School Diploma (Science and Technology)",
+      "studyType": "High School",
+      "startDate": "2003",
+      "endDate": "2021",
+      "score": "",
+      "courses": []
+    }
   ],
-"awards": [
-  {
-    "title": "2nd Place - FLL Robotics Competition",
-    "date": "2016-01-01",
-    "awarder": "First Lego League",
-    "summary": "Achieved 2nd place in robotics competition at age 12, demonstrating early interest and talent in technology and innovation.",
-    "url":  "https://www.firstlegoleague.org/"
-  },
-  {
-    "title": "4th Place - FLL Scientific Project",
-    "date": "2016-01-01",
-    "awarder": "First Lego League",
-    "summary": "Awarded 4th place in scientific project category, highlighting creativity and applied problem solving.",
-    "url":  "https://www.firstlegoleague.org/"
-  },
-  {
-    "title": "1st Place - FLL Team Values",
-    "date": "2016-01-01",
-    "awarder": "First Lego League",
-    "summary": "Recognized for teamwork and collaboration in the values category.",
-    "url":  "https://www.firstlegoleague.org/"
-  },
-  {
-    "title": "Cambridge English Advanced (C1)",
-    "date": "2023-01-01",
-    "awarder": "Cambridge University",
-    "summary": "Certified C1 level in English, proving advanced proficiency in communication, writing, and comprehension.",
-    "url":"https://www.cambridgeenglish.org/exams-and-tests/advanced/"
-  },
-  {
-    "title": "Participant - RGU Hackathon",
-    "date": "2024-02-01",
-    "awarder": "Robert Gordon University",
-    "summary": "Took part in RGU Hackathon 2024, collaborating with a team to design and prototype an innovative app in a short timeframe.",
-    "url" :  "https://www.linkedin.com/feed/update/urn:li:activity:7304267532654288896/"
-  },
-  {
-    "title": "High School Diploma in Science and Technology",
-    "url":"https://colegiosjesusmaria.com/hello-world/"
-  }
-],
+  "awards": [
+    {
+      "title": "2nd Place - FLL Robotics Competition",
+      "date": "2016-01-01",
+      "awarder": "First Lego League",
+      "summary": "Achieved 2nd place in robotics competition at age 12, demonstrating early interest and talent in technology and innovation.",
+      "url": "https://www.firstlegoleague.org/"
+    },
+    {
+      "title": "4th Place - FLL Scientific Project",
+      "date": "2016-01-01",
+      "awarder": "First Lego League",
+      "summary": "Awarded 4th place in scientific project category, highlighting creativity and applied problem solving.",
+      "url": "https://www.firstlegoleague.org/"
+    },
+    {
+      "title": "1st Place - FLL Team Values",
+      "date": "2016-01-01",
+      "awarder": "First Lego League",
+      "summary": "Recognized for teamwork and collaboration in the values category.",
+      "url": "https://www.firstlegoleague.org/"
+    },
+    {
+      "title": "Cambridge English Advanced (C1)",
+      "date": "2023-01-01",
+      "awarder": "Cambridge University",
+      "summary": "Certified C1 level in English, proving advanced proficiency in communication, writing, and comprehension.",
+      "url": "https://www.cambridgeenglish.org/exams-and-tests/advanced/"
+    },
+    {
+      "title": "Participant - RGU Hackathon",
+      "date": "2024-02-01",
+      "awarder": "Robert Gordon University",
+      "summary": "Took part in RGU Hackathon 2024, collaborating with a team to design and prototype an innovative app in a short timeframe.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7304267532654288896/"
+    },
+    {
+      "title": "High School Diploma in Science and Technology",
+      "url": "https://colegiosjesusmaria.com/hello-world/"
+    }
+  ],
   "certificates": [
     {
       "name": "Certificates listed in CV",
@@ -150,15 +147,15 @@
         "C#",
         "C++"
       ]
-    }, 
-    {
-        "name" : "Software & IT"
     },
     {
-        "name" : "Team Work  & Communication"
+      "name": "Software & IT"
     },
     {
-        "name": "Probem Solving "
+      "name": "Team Work  & Communication"
+    },
+    {
+      "name": "Probem Solving "
     }
   ],
   "languages": [
@@ -181,37 +178,50 @@
   "references": [],
   "projects": [
     {
+      "name": "UniConnect",
+      "startDate": "2025-09-01",
+      "isActive": true,
+      "endDate": "",
+      "description": "A modern social network platform designed for university students, built from scratch using Node.js, Express, MySQL, and TailwindCSS. UniConnect allows students to connect, share posts, and interact within an academic-oriented community.",
+      "highlights": [
+        "Developed full-stack architecture with Node.js, Express, and MySQL",
+        "Designed responsive and interactive UI using TailwindCSS and Figma",
+        "Implemented dynamic reusable components (header, footer, posts) with vanilla JavaScript",
+        "Focused on clean modular structure and maintainable code organization",
+        "Integrated accessibility, responsive layouts, and modern UI animations"
+      ],
+      "url": "https://github.com/alealonso17/UniConnect"
+    },
+    {
       "name": "Wild Buddy",
       "startDate": "2024-02-01",
-      "isActive": false , 
+      "isActive": false,
       "endDate": "2024-02-02",
       "description": "Hackathon project app that analyzes, tracks and identifies animals, helping scientists, students and zookeepers.",
       "highlights": [
         "Developed computer vision and data analysis features",
         "Built under tight deadlines during RGU Hackathon",
         "Worked with data analysis libraries and machine learning models in Python"
-    
-        
       ],
-      "url": ""
+      "url": "https://github.com/alealonso17/WildBuddy"
     },
     {
       "name": "Bakio Surf Cleaner",
       "startDate": "2025-01-01",
       "endDate": "2025-02-01",
-      "isActive": false , 
+      "isActive": false,
       "description": "Desktop app for surf school coaches to automatically remove short video clips from surf session recordings.",
       "highlights": [
         "Developed with Python",
         "Improved training efficiency by automating repetitive tasks"
       ],
-      "url": ""
+      "url": "https://github.com/alealonso17/BakioSurf"
     },
     {
       "name": "UFC Matchup Predictor",
       "startDate": "2025-02-01",
       "endDate": "",
-      "isActive": false , 
+      "isActive": false,
       "description": "Machine learning project to predict future fights.",
       "highlights": [
         "Implemented models using scikit-learn",
@@ -219,31 +229,31 @@
       ],
       "url": ""
     },
-     {
-    "name": "Personal Portfolio Website (Astro)",
-    "startDate": "2025-01-01",
-    "endDate": "2025-01-15",
-    "isActive": true , 
-    "description": "Responsive personal portfolio built with Astro, HTML and CSS to showcase projects and skills.",
-    "highlights": [
-      "Designed a clean, modern UI from scratch",
-      "Optimized for performance and accessibility",
-      "Implemented responsive design for desktop and mobile"
-    ],
-    "url": ""
-  },
-  {
-    "name": "Personal Portfolio Website (React)",
-    "startDate": "2025-02-01",
-    "endDate": "2025-02-10",
-    "isActive": false , 
-    "description": "Interactive personal portfolio built with React, JSX, HTML and CSS to present projects and achievements.",
-    "highlights": [
-      "Developed modular and reusable React components",
-      "Enhanced interactivity with JSX and dynamic rendering",
-      "Applied responsive design principles for all devices"
-    ],
-    "url": ""
-  }
+    {
+      "name": "Personal Portfolio Website (Astro)",
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-15",
+      "isActive": true,
+      "description": "Responsive personal portfolio built with Astro, HTML and CSS to showcase projects and skills.",
+      "highlights": [
+        "Designed a clean, modern UI from scratch",
+        "Optimized for performance and accessibility",
+        "Implemented responsive design for desktop and mobile"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Personal Portfolio Website (React)",
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-10",
+      "isActive": false,
+      "description": "Interactive personal portfolio built with React, JSX, HTML and CSS to present projects and achievements. (NOT UPDATED)",
+      "highlights": [
+        "Developed modular and reusable React components",
+        "Enhanced interactivity with JSX and dynamic rendering",
+        "Applied responsive design principles for all devices"
+      ],
+      "url": "https://github.com/alealonso17/Portfolio"
+    }
   ]
 }
