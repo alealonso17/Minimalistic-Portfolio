@@ -254,6 +254,21 @@
         "Applied responsive design principles for all devices"
       ],
       "url": "https://github.com/alealonso17/Portfolio"
+    },
+    {
+      "name": "Deadline Hell",
+      "startDate": "2025-11-14",
+      "endDate": "2025-11-15",
+      "isActive": true,
+      "description": "A full-stack web application built in just one day to track university assessments, deadlines, and progress. Designed to help manage intense exam periods with a clean UI and fast workflow.",
+      "highlights": [
+        "Developed in 1 day from scratch",
+        "Built with Node.js, Express, MySQL, TailwindCSS, and vanilla JavaScript",
+        "Functional login, registration, and assessment creation",
+        "Dynamic progress bars with backend updates",
+        "Clean and minimal interface designed for productivity"
+      ],
+      "url": "https://github.com/alealonso17/DeadlineHell"
     }
   ]
 }
